@@ -11,7 +11,7 @@
 <img width="499" alt="task1" src="https://github.com/DarkRimo/l4/assets/138011448/0aaba6a0-ba8a-4734-a17f-5dbe6832aab5">
 
 
-res1
+Результат
 
 ![res1](https://github.com/DarkRimo/l4/assets/138011448/6017d0ac-9fed-4c2c-93e5-a4f52da8d91d)
 
@@ -19,9 +19,6 @@ res1
 
 Преобразовать строку так, чтобы все цифры в ней были отсортированы по убыванию.
 
-Результати
+Результат
 
 ![res2](https://github.com/DarkRimo/l4/assets/138011448/b9e199f4-6ff6-4f31-bbc9-c3ccd1251a2d)
-
-
-res2
